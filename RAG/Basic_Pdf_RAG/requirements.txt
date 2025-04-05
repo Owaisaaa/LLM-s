@@ -1,0 +1,15 @@
+chromadb
+langchain
+langchain_community==0.3.14
+langchain_text_splitters==0.3.5
+pydantic
+langchain-ollama
+pypdf
+gradio
+Markdown
+openai
+langchain-openai
+python-dotenv
+sentence-transformers
+transformers
+langchain-huggingface
